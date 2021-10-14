@@ -107,17 +107,7 @@ async def on_message(message):
 				with io.BytesIO() as image_bin:
 					image1.save(image_bin, 'PNG')
 					image_bin.seek(0)
-					await message.channel.send(file=discord.File(fp=image_bin, filename=random.choice(['bett', 'enco', 'canis', 'vaze', 'hakki']) + '_anani_patpat.png'))
-					_guild = client.get_guild(887024372030767155)
-					_channel = _guild.get_channel(887028133079969812);
-					image1.save(image_bin, 'PNG')
-					image_bin.seek(0)
-					await _channel.send(file=discord.File(fp=image_bin, filename=random.choice(['bett', 'enco', 'canis', 'vaze', 'hakki']) + '_anani_patpat.png'))
-					_guild = client.get_guild(796693829347966996)
-					_channel = _guild.get_channel(892436033248038932);
-					image1.save(image_bin, 'PNG')
-					image_bin.seek(0)
-					await _channel.send(file=discord.File(fp=image_bin, filename=random.choice(['bett', 'enco', 'canis', 'vaze', 'hakki']) + '_anani_patpat.png'))
+					await message.channel.send(file=discord.File(fp=image_bin, filename='fosya.png'))
 			else:
 				rep = await message.channel.fetch_message(message.reference.message_id)
 				rmsg = rep.id
@@ -232,17 +222,7 @@ async def on_message(message):
 					with io.BytesIO() as image_bin:
 						image1.save(image_bin, 'PNG')
 						image_bin.seek(0)
-						await message.channel.send(file=discord.File(fp=image_bin, filename=random.choice(['bett', 'enco', 'canis', 'vaze', 'hakki']) + '_anani_patpat.png'))
-						_guild = client.get_guild(887024372030767155)
-						_channel = _guild.get_channel(887028133079969812);
-						image1.save(image_bin, 'PNG')
-						image_bin.seek(0)
-						await _channel.send(file=discord.File(fp=image_bin, filename=random.choice(['bett', 'enco', 'canis', 'vaze', 'hakki']) + '_anani_patpat.png'))
-						_guild = client.get_guild(796693829347966996)
-						_channel = _guild.get_channel(892436033248038932);
-						image1.save(image_bin, 'PNG')
-						image_bin.seek(0)
-						await _channel.send(file=discord.File(fp=image_bin, filename=random.choice(['bett', 'enco', 'canis', 'vaze', 'hakki']) + '_anani_patpat.png'))
+						await message.channel.send(file=discord.File(fp=image_bin, filename='dsdfdsfgdg.png'))
 				else:
 					await message.reply('sayi ile q atilan mesaj son 700 mesaj arasinda olmali')
 	except:
