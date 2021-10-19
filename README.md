@@ -5,20 +5,36 @@ _Commands:_
 All:
 ** **************************************************** ***
 ```q``` or ```q {num}``` or ```q {#hex code}```
+
 ```q m``` or ```q m1, q m2, q m3```
+
 ```q e``` or ```q e1, q e2, q e3, q e4```
+
+
 ```q muslim``` or ```q muslim1, q muslim2, q muslim3```
+
 ```q chp``` or ```q chp1, q chp2```
+
 ```q hiko``` or ```q hiko1, q hiko2```
+
 ```q ziya``` or ```q ziya1, ziya2```
+
 ```q bebe```, ```q veled```
+
 ```q gay``` or ```q gay1, q gay2, q gay3, q gay4, q gay5, q gay6```
+
 ```q akp``` or ```q akp1, q akp2, q akp3, q akp4, q akp5, q akp6, q akp7```
+
 ```q s``` or ```q s1, q s2, q s3```
+
 ```q chp``` or ```q chp1, q chp2```
+
 ```q akp``` or ```q akp1, q akp2, q akp3, q akp4, q akp5, q akp6, q akp7```
+
 ```q meme``` or ```q meme1, q meme2, q meme3, q meme4, q meme5, q meme6, q meme7, q meme8, q meme9, q meme10, q meme11, q meme12, q meme13, q meme14, q meme15```
+
 ```q ata``` or ```q ata1, q ata2, q ata3, q ata4, q ata6, q ata7, q ata8, q ata9, q ata10, q ata11, q 12, q ata13```
+
 ** **************************************************** ***
 
 
