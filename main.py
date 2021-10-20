@@ -54,6 +54,9 @@ async def on_message(message):
 		vra = False
 		if message.content.startswith('q') or message.content.startswith('Q') or message.content.startswith('/q') or message.content.startswith('/Q'):
 			vra = True
+		if message.content == "ulan amoji":
+        		for emoji in message.guild.emojis:
+        		    await message.reply(str(emoji.name) + ' ' + str(emoji.id)) 
 		if vra == True:
 			sayili_mi = False
 			neks = [int(s) for s in message.content.split() if s.isdigit()]
