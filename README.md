@@ -1,5 +1,5 @@
 ## 👁️
-Invite Pipican: https://discord.com/api/oauth2/authorize?client_id=883773811672100875&permissions=3072&scope=bot
+Invite Whooper: https://discord.com/api/oauth2/authorize?client_id=883773811672100875&permissions=3072&scope=bot
 
 _Commands:_
 
