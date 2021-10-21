@@ -7,10 +7,16 @@ All:
 ** **************************************************** ***
 ```q``` or ```q {num}``` or ```q {#hex code}```
 
+```q p``` and attach a image
+
+```q f {tenor link or a gif link}```
+
+```q {num} ziya```
+
+
 ```q m``` or ```q m1, q m2, q m3```
 
 ```q e``` or ```q e1, q e2, q e3, q e4```
-
 
 ```q muslim``` or ```q muslim1, q muslim2, q muslim3```
 
