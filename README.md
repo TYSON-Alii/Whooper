@@ -5,11 +5,15 @@ _Commands:_
 
 All:
 ** **************************************************** ***
-```q``` or ```q {num}``` or ```q {#hex code}```
+```q``` or ```aq``` or ```/q```
+
+```q {num}``` or ```q {#hex code}```
 
 ```q p``` and attach a image
 
 ```q f {tenor link or a gif link}```
+
+```q gif```
 
 ```q {num} ziya```
 
