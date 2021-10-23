@@ -43,6 +43,9 @@ meme meme15 d https://github.com/TYSON-Alii/Q-Bot-Discord/blob/678ae94516c394415
 meme meme16 d https://cdn.discordapp.com/attachments/837068088473944104/879082694540136449/IMG_20210812_002424.jpg
 meme meme17 d https://cdn.discordapp.com/attachments/887024372030767158/901534029671718932/IMG_20210828_115830_393.jpg
 meme meme18 d https://cdn.discordapp.com/attachments/837068088473944104/901542537091776532/rize.png
+meme meme19 d https://cdn.discordapp.com/attachments/837068088473944104/901547097894060092/meme19.jpg
+meme meme20 d https://cdn.discordapp.com/attachments/837068088473944104/901547103757697134/meme20.jpg
+meme meme21 d https://cdn.discordapp.com/attachments/837068088473944104/901547113090015282/meme21.jpg
 akp akp1 d https://github.com/TYSON-Alii/Q-Bot-Discord/blob/678ae94516c394415ee6c5093d34071f7e3e5bef/data/akp.jpg?raw=true
 akp akp2 d https://github.com/TYSON-Alii/Q-Bot-Discord/blob/678ae94516c394415ee6c5093d34071f7e3e5bef/data/akp2.jpg?raw=true
 akp akp3 d https://github.com/TYSON-Alii/Q-Bot-Discord/blob/678ae94516c394415ee6c5093d34071f7e3e5bef/data/akp3.jpg?raw=true
@@ -57,6 +60,9 @@ muslim muslim3 d https://github.com/TYSON-Alii/Q-Bot-Discord/blob/678ae94516c394
 s s1 d https://github.com/TYSON-Alii/Q-Bot-Discord/blob/678ae94516c394415ee6c5093d34071f7e3e5bef/data/s1.jpg?raw=true
 s s2 d https://github.com/TYSON-Alii/Q-Bot-Discord/blob/678ae94516c394415ee6c5093d34071f7e3e5bef/data/s2.jpg?raw=true
 s s3 d https://github.com/TYSON-Alii/Q-Bot-Discord/blob/678ae94516c394415ee6c5093d34071f7e3e5bef/data/s3.jpg?raw=true
+s s4 d https://cdn.discordapp.com/attachments/837068088473944104/901547300336336916/s.png
+s s5 d https://cdn.discordapp.com/attachments/837068088473944104/901547270405763083/ulku1.jpg
+s s6 d https://cdn.discordapp.com/attachments/837068088473944104/901547157914538044/akp8.jpg
 e e1 d https://github.com/TYSON-Alii/Q-Bot-Discord/blob/678ae94516c394415ee6c5093d34071f7e3e5bef/data/e1.png?raw=true
 e e2 d https://github.com/TYSON-Alii/Q-Bot-Discord/blob/678ae94516c394415ee6c5093d34071f7e3e5bef/data/e2.jpg?raw=true
 e e3 d https://github.com/TYSON-Alii/Q-Bot-Discord/blob/678ae94516c394415ee6c5093d34071f7e3e5bef/data/e3.jpg?raw=true
