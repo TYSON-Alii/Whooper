@@ -91,6 +91,7 @@ e e3 d https://github.com/TYSON-Alii/Q-Bot-Discord/blob/678ae94516c394415ee6c509
 e e4 d https://github.com/TYSON-Alii/Q-Bot-Discord/blob/678ae94516c394415ee6c5093d34071f7e3e5bef/data/e4.jpg?raw=true
 e e5 d https://github.com/TYSON-Alii/Q-Bot-Discord/blob/678ae94516c394415ee6c5093d34071f7e3e5bef/data/bill1.jpg?raw=true
 e e6 d https://cdn.discordapp.com/attachments/889237816712790067/901752494902898769/image0-10.png
+e e7 d https://cdn.discordapp.com/attachments/882589114506051614/901758860103139398/images_11.jpeg
 chad chad1 d https://github.com/TYSON-Alii/Q-Bot-Discord/blob/678ae94516c394415ee6c5093d34071f7e3e5bef/data/chad1.jpg?raw=true
 chad chad2 d https://github.com/TYSON-Alii/Q-Bot-Discord/blob/678ae94516c394415ee6c5093d34071f7e3e5bef/data/chad2.jpg?raw=true
 chad chad3 d https://github.com/TYSON-Alii/Q-Bot-Discord/blob/678ae94516c394415ee6c5093d34071f7e3e5bef/data/chad3.jpg?raw=true
