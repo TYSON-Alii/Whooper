@@ -6,13 +6,9 @@ _Commands:_
 All:
 _Note: The order of commands doesn't matter._
 ** **************************************************** ***
-```diff
-+ q help
-```
+```q help```
 
-```cpp
-"q" or "aq" or "/q"
-```
+```q``` or ```aq``` or ```/q```
 
 ```q {any command} nsfw``` to add spoiler image
 
