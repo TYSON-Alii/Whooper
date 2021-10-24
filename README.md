@@ -10,7 +10,7 @@ _Note: The order of commands doesn't matter._
 + q help
 ```
 
-```py
+```cpp
 "q" or "aq" or "/q"
 ```
 
