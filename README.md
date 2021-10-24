@@ -6,7 +6,8 @@ _Commands:_
 All:
 _Note: The order of commands doesn't matter._
 ** **************************************************** ***
-<p style="color:orange;">q help</p>
+```diff
++ q help```
 
 ```q``` or ```aq``` or ```/q```
 
