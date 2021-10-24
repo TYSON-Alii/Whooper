@@ -4,10 +4,15 @@ Invite Whooper: https://discord.com/api/oauth2/authorize?client_id=8837738116721
 _Commands:_
 
 All:
+_Note: The order of commands doesn't matter._
 ** **************************************************** ***
+<span style="color:orange;">```q help```</span>
+
 ```q``` or ```aq``` or ```/q```
 
-```q {num}``` or ```q {#hex code}```
+```q {any command} nsfw``` to add spoiler image
+
+```q {num}``` or ```q {any command} {#hex code}```
 
 ```q p``` and attach a image
 
@@ -19,11 +24,11 @@ All:
 
 ** **************************************************** ***
 
-```q m``` or ```q m1, q m2, q m3```
+```q m``` or ```q m1.. up to m3```
 
-```q e``` or ```q e1, q e2, q e3, q e4```
+```q e``` or ```q e1... up to e7```
 
-```q muslim``` or ```q muslim1, q muslim2, q muslim3```
+```q muslim``` or ```q muslim1... up to muslim5```
 
 ```q chp``` or ```q chp1, q chp2```
 
@@ -33,20 +38,21 @@ All:
 
 ```q bebe```, ```q veled```
 
-```q gay``` or ```q gay1, q gay2, q gay3, q gay4, q gay5, q gay6```
+```q gay``` or ```q gay1... up to q gay6```
 
-```q akp``` or ```q akp1, q akp2, q akp3, q akp4, q akp5, q akp6, q akp7```
+```q akp``` or ```q akp1... up to akp6```
 
-```q s``` or ```q s1, q s2, q s3```
+```q s``` or ```q s1... up to s8```
 
-```q chp``` or ```q chp1, q chp2```
+```q meme``` or ```q meme1... up to meme39```
 
-```q akp``` or ```q akp1, q akp2, q akp3, q akp4, q akp5, q akp6, q akp7```
+```q ata``` or ```q ata1... up to ata13```
 
-```q meme``` or ```q meme1, q meme2, q meme3, q meme4, q meme5, q meme6, q meme7, q meme8, q meme9, q meme10, q meme11, q meme12, q meme13, q meme14, q meme15```
+```q hdp``` or ```q hdp1, q hdp2```
 
-```q ata``` or ```q ata1, q ata2, q ata3, q ata4, q ata6, q ata7, q ata8, q ata9, q ata10, q ata11, q 12, q ata13```
+```q chad``` or ```q chad1... up to chad4```
 
+```q lord``` or ```q lord1 up to lord4```
 ** **************************************************** ***
 
 
