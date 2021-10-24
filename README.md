@@ -4,6 +4,7 @@ Invite Whooper: https://discord.com/api/oauth2/authorize?client_id=8837738116721
 _Commands:_
 
 All:
+
 _Note: The order of commands doesn't matter._
 ** **************************************************** ***
 ```q help```
