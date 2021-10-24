@@ -7,10 +7,12 @@ All:
 _Note: The order of commands doesn't matter._
 ** **************************************************** ***
 ```diff
-q help
++ q help
 ```
 
-```q``` or ```aq``` or ```/q```
+```py
+"q" or "aq" or "/q"
+```
 
 ```q {any command} nsfw``` to add spoiler image
 
