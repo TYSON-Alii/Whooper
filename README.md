@@ -6,7 +6,9 @@ _Commands:_
 All:
 _Note: The order of commands doesn't matter._
 ** **************************************************** ***
-```diff + q help```
+```diff
+q help
+```
 
 ```q``` or ```aq``` or ```/q```
 
