@@ -13,7 +13,7 @@ _Note: The order of commands doesn't matter._
 
 ```q {any command} nsfw``` to add spoiler image
 
-```q {num}``` or ```q {any command} {#hex code}```
+```q {any command} {num}``` or ```q {any command} {#hex code}```
 
 ```q p``` and attach a image
 
