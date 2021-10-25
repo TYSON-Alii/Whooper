@@ -45,7 +45,9 @@ _Note: The order of commands doesn't matter._
 
 ```q s``` or ```q s1... up to s8```
 
-```q meme``` or ```q meme1... up to meme39```
+```q meme``` or ```q meme1... up to meme58```
+
+```q irl``` or ```q irl1... up to irl38```
 
 ```q ata``` or ```q ata1... up to ata13```
 
