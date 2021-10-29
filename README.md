@@ -7,7 +7,7 @@ All:
 
 _Note: The order of commands doesn't matter._
 ** **************************************************** ***
-```q help```
+`q help`
 
 ```q``` or ```aq``` or ```/q```
 
