@@ -6,7 +6,7 @@ chp chp2 d https://github.com/TYSON-Alii/Q-Bot-Discord/blob/ab8d22f34a4dbbe20a6b
 ziya ziya1 d https://github.com/TYSON-Alii/Q-Bot-Discord/blob/8f0065b4b73bf67a4b2f7ef2c0ba8658a1759513/data/ziya1.jpg?raw=true
 ziya ziya2 d https://github.com/TYSON-Alii/Q-Bot-Discord/blob/8f0065b4b73bf67a4b2f7ef2c0ba8658a1759513/data/ziya2.jpg?raw=true
 hdp hdp1 d https://github.com/TYSON-Alii/Q-Bot-Discord/blob/a5ade5ae2e5b71bbbcc9744ece9aed0bb931102c/data/hdp.jpg?raw=true
-veled veled1 a https://github.com/TYSON-Alii/Q-Bot-Discord/blob/6a73b07631098506b4fe0d86a5c90065ec9d01f1/data/veled.jpg?raw=true
+veled veled1 d https://github.com/TYSON-Alii/Q-Bot-Discord/blob/6a73b07631098506b4fe0d86a5c90065ec9d01f1/data/veled.jpg?raw=true
 gay gay1 d https://github.com/TYSON-Alii/Q-Bot-Discord/blob/a5ade5ae2e5b71bbbcc9744ece9aed0bb931102c/data/gay.jpg?raw=true
 gay gay2 d https://github.com/TYSON-Alii/Q-Bot-Discord/blob/678ae94516c394415ee6c5093d34071f7e3e5bef/data/gay2.jpg?raw=true
 gay gay3 d https://github.com/TYSON-Alii/Q-Bot-Discord/blob/678ae94516c394415ee6c5093d34071f7e3e5bef/data/gay3.jpg?raw=true
@@ -117,7 +117,7 @@ akp akp4 d https://github.com/TYSON-Alii/Q-Bot-Discord/blob/678ae94516c394415ee6
 akp akp5 d https://github.com/TYSON-Alii/Q-Bot-Discord/blob/678ae94516c394415ee6c5093d34071f7e3e5bef/data/akp5.jpg?raw=true
 akp akp6 d https://cdn.discordapp.com/attachments/837068088473944104/901564380116820008/496e73d2.jpg
 akp akp7 d https://cdn.discordapp.com/attachments/837068088473944104/901926602760413184/file_71386596.png
-bebe bebe1 a https://github.com/TYSON-Alii/Q-Bot-Discord/blob/678ae94516c394415ee6c5093d34071f7e3e5bef/data/bebe.jpg?raw=true
+bebe bebe1 d https://github.com/TYSON-Alii/Q-Bot-Discord/blob/678ae94516c394415ee6c5093d34071f7e3e5bef/data/bebe.jpg?raw=true
 hiko hiko1 d https://github.com/TYSON-Alii/Q-Bot-Discord/blob/678ae94516c394415ee6c5093d34071f7e3e5bef/data/hiko1.jpg?raw=true
 hiko hiko2 d https://github.com/TYSON-Alii/Q-Bot-Discord/blob/678ae94516c394415ee6c5093d34071f7e3e5bef/data/hiko2.jpg?raw=true
 muslim muslim1 d https://github.com/TYSON-Alii/Q-Bot-Discord/blob/678ae94516c394415ee6c5093d34071f7e3e5bef/data/muslim1.jpg?raw=true
